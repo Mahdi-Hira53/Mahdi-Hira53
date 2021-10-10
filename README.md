@@ -1,9 +1,10 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahdi-Hira53)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahdi.hira.53)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahdi_hira53//) 
+
 
 ### Hi there 👋, This is Md. Mahdi Hossain Hira
 #### I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas. 
 ![I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas. ](https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198__340.jpges/banner.png)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahdi-Hira53)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahdi.hira.53)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahdi_hira53//) 
 
 Skills: C /C++/JAVA / HTML 
 

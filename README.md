@@ -24,8 +24,9 @@
 <a href="https://codeforces.com/profile/mahdi_hira53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mahdi_hira53" height="30" width="40" /></a>
 </p><br><h2>My Github Stats</h2><br>
 
-![Mahdi Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
+![Mahdi Hossain Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Hira53&layout=compact&theme=github_dark&show_icons=true)](https://github.com/Mahdi-Hira53/github-readme-stats)
+[![Mahdi Hossain Hira's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mahdi-Hira53)](https://github.com/Mahdi-Hira53/github-readme-stats)
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53">
 

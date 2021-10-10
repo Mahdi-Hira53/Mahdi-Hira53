@@ -1,5 +1,6 @@
+<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROPY2pS5VRdU20Gh_DlBsGyIssh8eCks16BoPbnc3q44oxZMdvEkmzoN-70HfzbcG3kIQ&usqp=CAU"></div><br>
 <div align="center"><img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198__340.jpges/banner.png" alt="mahdi-hira53"></div><br>
-<div align="center"><img src="https://www.google.com/search?q=programing+animation&client=firefox-b-d&sxsrf=AOaemvL1pX_XYSPTEfGTrF3tQ9LH3n0EWQ:1633895577450&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7rPmrz8DzAhVDzjgGHTbHAcAQ_AUoAXoECAEQAw&biw=1535&bih=779&dpr=1.25#imgrc=8XkhQxcDyZ0PpM"></div><br>
+
 
 <h1 align="center">Hi 👋, I'm Md. Mahdi Hossain Hira</h1>
 <h4 align="center">I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas.</h4>

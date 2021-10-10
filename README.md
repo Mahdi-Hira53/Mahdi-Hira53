@@ -27,7 +27,7 @@
 ![Mahdi Hossain Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Hira53&layout=compact&theme=github_dark)](https://github.com/Mahdi-Hira53/github-readme-stats)
   
-<br>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53) 
+<br>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53&theme=github_dark&show_icons=true) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
   

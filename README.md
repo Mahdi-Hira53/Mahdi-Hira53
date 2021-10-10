@@ -30,27 +30,6 @@
 <br>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53&theme=github_dark&show_icons=true) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
-  
-  <!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      img {
-        width: 40%;
-        float: left;
-      }
-      .image-1 {
-        filter: invert(100%);
-        -webkit-filter: invert(100%);
-      }
-      }
-    </style>
-  </head>
-  <body>
-    <img class="image-1" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" width="500px" height="250px" alt="filter applied" />
-   
-  </body>
-</html>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mahdi-Hira53&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy) 
  

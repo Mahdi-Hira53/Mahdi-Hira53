@@ -29,7 +29,7 @@
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53">
 
-<p><img style="background-color:Black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
+<p><img style="color:Black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-hira53" alt="mahdi-hira53" /></a> </p>
  

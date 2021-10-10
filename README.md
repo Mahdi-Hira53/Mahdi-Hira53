@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [LU Assistant (OOP Course Project)](https://github.com/ARASHFAQUE/LU-Assistant)
 
 - 🌱 I’m currently learning **Java**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories" target="blank"> 
+- �<p>💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories" target="blank"> </p><br>
 
 - 📫 How to reach me **bdmahdihira53@gmail.com**
 

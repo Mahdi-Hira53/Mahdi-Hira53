@@ -2,10 +2,9 @@
 
 ### Hi there 👋, This is Md. Mahdi Hossain Hira
 #### I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas. 
-![I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas. ]<br>
-![Profile views](https://gpvc.arturio.dev/Mahdi-Hira53)<br>
-(https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198__340.jpges/banner.png)
+![I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas. ](https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198__340.jpges/banner.png)
 
+<br><br>![Profile views](https://gpvc.arturio.dev/Mahdi-Hira53)
 
 Skills: <br>
 ☑️C<br>

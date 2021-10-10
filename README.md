@@ -25,8 +25,7 @@
 </p>
 
 ![Mahdi Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
-  <br>
-  ![Mahdi Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=tokyonight&show_icons=true)
+
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53">
 

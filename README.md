@@ -4,12 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-hira53" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-hira53" alt="mahdi-hira53" /></a> </p>
-<h2><b>About me</b></h2>
+
 - 🔭 I’m currently working on [LU Assistant (OOP Course Project)](https://github.com/ARASHFAQUE/LU-Assistant)
 
 - 🌱 I’m currently learning **Java**
-- �<p>💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories" target="blank"> </p><br>
 
 - 📫 How to reach me **bdmahdihira53@gmail.com**
 
@@ -31,4 +29,7 @@
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53">
 
-<p style="background-color:Black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p>
+<p style="background-color:Black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-hira53" alt="mahdi-hira53" /></a> </p>
+<h2><b>About me</b></h2>  

@@ -32,4 +32,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-hira53" alt="mahdi-hira53" /></a> </p>
+  
+ 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mahdi-Hira53&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy) 
  

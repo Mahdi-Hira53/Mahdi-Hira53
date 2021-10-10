@@ -5,8 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-hira53" /> </p>
 
 <h2><b>About me</b></h2>
-<div>🔭 I’m currently working on <a href="https://github.com/ARASHFAQUE/LU-Assistant">LU Assistant (OOP Course Project)</a></div>
-- 🔭 I’m currently working on [LU Assistant (OOP Course Project)](https://github.com/ARASHFAQUE/LU-Assistant) and [Medi Aid (Personal Project)](https://github.com/Mahdi-Hira53/Medi-Aid)
+<div>-🔭 I’m currently working on <a href="https://github.com/ARASHFAQUE/LU-Assistant">LU Assistant</a>(OOP Course Project) and<a href="https://github.com/Mahdi-Hira53/Medi-Aid">Medi Aid</a>(Partial OOP Project) using File Handeling</div>
 
 - 🌱 I’m currently learning **Java**
 - 👨‍💻 All of my projects are available at **https://github.com/Mahdi-Hira53?tab=repositories**

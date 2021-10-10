@@ -6,7 +6,7 @@
 
 <h2><b>About me</b></h2>
 <div>-🔭 I’m currently working on <a href="https://github.com/ARASHFAQUE/LU-Assistant">LU Assistant</a> (OOP Course Project) and<a href="https://github.com/Mahdi-Hira53/Medi-Aid"> Medi Aid</a> (Partial OOP Project) using File Handeling</div>
-<div>- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories">My repository</a></div><br>
+<div>- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories">My repository</a></div>
 - 🌱 I’m currently learning Java
 
 - 📫 How to reach me **bdmahdihira53@gmail.com**

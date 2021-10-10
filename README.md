@@ -1,4 +1,4 @@
-<div align="center"><img src="https://ak.picdn.net/shutterstock/videos/1010260682/thumb/12.jpg"></div><br>
+<div><img src="https://ak.picdn.net/shutterstock/videos/1010260682/thumb/12.jpg"></div><br>
 <div align="center"><img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198__340.jpges/banner.png" alt="mahdi-hira53"></div><br>
 
 

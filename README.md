@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on [LU Assistant (OOP Course Project)](https://github.com/ARASHFAQUE/LU-Assistant) and [Medi Aid (Personal Project)](https://github.com/Mahdi-Hira53/Medi-Aid)
 
 - 🌱 I’m currently learning **Java**
+- 👨‍💻 All of my projects are available at **https://github.com/Mahdi-Hira53?tab=repositories**
 
 - 📫 How to reach me **bdmahdihira53@gmail.com**
 

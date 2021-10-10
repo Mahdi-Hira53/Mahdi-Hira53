@@ -25,7 +25,6 @@
 </p><br><h2>My Github Stats</h2><br>
 
 ![Mahdi Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?usernameMahdi-Hira53a&repo=github-readme-stats)](https://github.com/Mahdi-Hira53/github-readme-stats)
 
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53">

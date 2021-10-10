@@ -1,4 +1,4 @@
-<div><img align="center" src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198__340.jpges/banner.png"><br></div>
+<div><img align="center" src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198__340.jpges/banner.png" alt="mahdi-hira53"></div><br>
 <h1 align="center">Hi 👋, I'm Md. Mahdi Hossain Hira</h1>
 <h3 align="center">I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas.</h3>
 
@@ -26,7 +26,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-hira53&show_icons=true&locale=en&layout=compact" alt="mahdi-hira53" /></p>
-<br><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-hira53&show_icons=true&locale=en" alt="mahdi-hira53" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-hira53&show_icons=true&locale=en" alt="mahdi-hira53" /></p>
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53">
 

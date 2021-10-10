@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-hira53" alt="mahdi-hira53" /></a> </p>
 <h2><b>About me</b></h2>
-- 🔭 I’m currently working on [LU Assistant (OOP Course Project))](https://github.com/ARASHFAQUE/LU-Assistant)
+- 🔭 I’m currently working on [LU Assistant (OOP Course Project)](https://github.com/ARASHFAQUE/LU-Assistant)
 
 - 🌱 I’m currently learning **Java**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories" target="blank"> 
 
 - 📫 How to reach me **bdmahdihira53@gmail.com**
 

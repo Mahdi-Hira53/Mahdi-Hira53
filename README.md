@@ -24,13 +24,11 @@
 <a href="https://codeforces.com/profile/mahdi_hira53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mahdi_hira53" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-hira53&show_icons=true&locale=en&layout=compact" alt="mahdi-hira53" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-hira53&show_icons=true&locale=en" alt="mahdi-hira53" /></p>
+<div><img src="https://camo.githubusercontent.com/8fd2570f103d1aae8a4d8970535274ae19c2ee62587d8868d618be37001263d0/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539353137343533362f6772732d7468656d65735f6c34796e6a612e706e67">
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53">
 
-<p><img style="color:Black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-hira53" alt="mahdi-hira53" /></a> </p>
  

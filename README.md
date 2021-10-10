@@ -25,7 +25,7 @@
 </p><br><h2>My Github Stats</h2><br>
 
 ![Mahdi Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Hira53&layout=compact&theme=github_dark)](https://github.com/Mahdi-Hira53/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Hira53&layout=compact&theme=github_dark&show_icons=true)](https://github.com/Mahdi-Hira53/github-readme-stats)
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53">
 

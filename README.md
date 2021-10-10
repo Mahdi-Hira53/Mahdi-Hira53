@@ -25,12 +25,12 @@
 </p><br><h2>My Github Stats</h2><br>
 
 ![Mahdi Hossain Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Hira53&layout=compact&theme=github_dark&show_icons=true)](https://github.com/Mahdi-Hira53/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Hira53&layout=compact&theme=github_dark)](https://github.com/Mahdi-Hira53/github-readme-stats)
   
 
 <br><img src="https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53&theme=github_dark">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&theme=github_dark&" alt="mahdi-hira53" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi-hira53" alt="mahdi-hira53" /></a> </p>
  

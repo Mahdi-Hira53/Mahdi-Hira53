@@ -8,7 +8,8 @@
 <div>- 🔭 I’m currently working on <a href="https://github.com/ARASHFAQUE/LU-Assistant">LU Assistant</a> (OOP Course Project) and<a href="https://github.com/Mahdi-Hira53/Medi-Aid"> Medi Aid</a> (Partial OOP Project) using File Handeling</div>
 <div>- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories">My repository</a></div>
 <div>- 🌱 I’m currently learning <b>Java</b></div>
-<div>- 📫 How to reach me <a href="bdmahdihira53@gmail.com">E-mail</a></div>
+
+- 📫 How to reach me **bdmahdihira53@gmail.com**
 
 <h3 align="left"><b>Languages and Tools:<b></h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>

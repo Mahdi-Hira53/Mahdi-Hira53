@@ -8,7 +8,7 @@
 
 <h2><b>About me</b></h2>
 <div>- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories">My repository</a></div>
-<div>- 🌱 I’m currently learning and working with Flutter<b>Java</b></div>
+<div>- 🌱 I’m currently learning and working with <b>Flutter</b></div>
 
 - 📫 How to reach me **bdmahdihira53@gmail.com**
 

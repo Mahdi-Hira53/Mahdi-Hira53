@@ -7,9 +7,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-hira53" /> </p>
 
 <h2><b>About me</b></h2>
-<div>- 🔭 I’m currently working on <a href="https://github.com/ARASHFAQUE/LU-Assistant">LU Assistant</a> (OOP Course Project) using File Handling</div>
 <div>- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories">My repository</a></div>
-<div>- 🌱 I’m currently learning <b>Java</b></div>
+<div>- 🌱 I’m currently learning and working with Flutter<b>Java</b></div>
 
 - 📫 How to reach me **bdmahdihira53@gmail.com**
 

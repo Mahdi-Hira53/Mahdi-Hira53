@@ -1,10 +1,10 @@
-<div align="center"><img src="https://ak.picdn.net/shutterstock/videos/1010260682/thumb/12.jpg"></div><br>
+<div align="center"><img src="https://ak.picdn.net/shutterstock/videos/1010260682/thumb/12.jpg" width="400" height="400"></div><br>
 
 
 <h1 align="center">Hi 👋, I'm Md. Mahdi Hossain Hira</h1>
 <h4 align="center">CSE Graduate from Leading University. I'm a lifelong learner who is eager to experiment with new technologies and areas.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-hira53" width="40" height="40" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-hira53"/> </p>
 
 <h2><b>About me</b></h2>
 <div>- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories">My repository</a></div>

@@ -4,16 +4,15 @@
 <h1 align="center">Hi 👋, I'm Md. Mahdi Hossain Hira</h1>
 <h4 align="center">CSE Graduate from Leading University. I'm a lifelong learner who is eager to experiment with new technologies and areas.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-hira53" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-hira53" width="40" height="40" /> </p>
 
 <h2><b>About me</b></h2>
 <div>- 👨‍💻 All of my projects are available at <a href="https://github.com/Mahdi-Hira53?tab=repositories">My repository</a></div>
-<div>- 🌱 I’m currently learning and working with <b>Flutter</b></div>
 
-- 📫 How to reach me **bdmahdihira53@gmail.com**
+- 📫 How to reach me **mhh.luscse@gmail.com**
 
 <h3 align="left"><b>Languages and Tools:<b></h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://www.flutter.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> </p>
   
 <h3 align="left"><b>Connect with me:<b></h3>
 <p align="left">

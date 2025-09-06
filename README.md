@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md. Mahdi Hossain Hira</h1>
-<h4 align="center">I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas.</h4>
+<h4 align="center">CSE Graduate from Leading University. I'm a lifelong learner who is eager to experiment with new technologies and areas.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-hira53" /> </p>
 
